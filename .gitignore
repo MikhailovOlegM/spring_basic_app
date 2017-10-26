@@ -8,7 +8,9 @@ gradlew.bat
 out/
 Test/
 test/
-*.txt.*
 .mvn/
 target/
-mvnw*
+mvnw
+mvnw.cmd
+*.txt.*
+
